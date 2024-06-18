@@ -46,13 +46,15 @@ Ensure that you have the following software installed:
    cd client
    npm run dev
    ```
-  client works on [http://localhost:5174/]
+  client works on [http://localhost:5174/] 
+  
 3. To start the Backend
    ```bash
    cd server
    npm start
    ```
-server works on [http://localhost:8000/]
+server works on [http://localhost:8000/] 
+
 After this commands are used the task is connected to the database you are ready to go.
 
 ## Project Structure
