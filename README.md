@@ -22,13 +22,13 @@ Implement a user authentication system with secure login and registration functi
 * Protected routes should restrict unauthorized access.
 
 ## Technologies Used
-# Prequisites
+### Prequisites
 Ensure that you have the following software installed:
 * VScode(latest or higher)
 * Reactjs
 * Nodejs and npm
 * MongoDb, Bcrypt, jwt
-# Running the Task
+### Running the Task
 1. Open the folder
    ```bash
    cd foldername
