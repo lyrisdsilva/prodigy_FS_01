@@ -50,11 +50,25 @@ After the project is connected to the database you are ready to go.
 
 
 ## Project Structure
-├── README.md # Project documentation
-├── LICENSE # License file
-├── .gitignore # Git ignore file
-├── src/ # Source files
-│ ├── main.py # Main executable script
+├──README.md # Project documentation
+├──LICENSE # License file
+├──.gitignore # Git ignore file
+src/ # Source files
+main.py # Main executable script
+module1.py # First module
+module2.py # Second module
+utils/ # Utility functions
+helper.py # Helper functions
+config.py # Configuration settings
+tests/ # Test files
+test_main.py # Tests for main.py
+test_module1.py # Tests for module1.py
+test_module2.py # Tests for module2.py
+
+├── README.md 
+├── .gitignore 
+├── client/ # Frontend 
+│ ├── 
 │ ├── module1.py # First module
 │ ├── module2.py # Second module
 │ └── utils/ # Utility functions
