@@ -22,6 +22,9 @@ Implement a user authentication system with secure login and registration functi
 * Protected routes should restrict unauthorized access.
 
 ## Technologies Used
+
+
+## Setup and Installation
 ### Prequisites
 Ensure that you have the following software installed:
 * VScode(latest or higher)
@@ -42,30 +45,33 @@ Ensure that you have the following software installed:
    npm start
 After the project is connected to the database you are ready to go.
 
-## Setup and Installation
-
-
-
 ## Usage
 
 
 ## Project Structure
+``bash
 ├── README.md 
-
 ├── .gitignore
-
 ├── client/ # Frontend 
-│ ├── 
-│ ├── module1.py # First module
-│ ├── module2.py # Second module
-│ └── utils/ # Utility functions
-│ ├── helper.py # Helper functions
-│ └── config.py # Configuration settings
-├── tests/ # Test files
-│ ├── test_main.py # Tests for main.py
-│ ├── test_module1.py # Tests for module1.py
-│ └── test_module2.py # Tests for module2.py
-└── requirements.txt # List of dependencies
+│    ├── context/
+│    ├── index.html
+│    ├── node_modules/
+│    ├── package-lock.json
+│    ├── package.json
+│    ├── public/
+│    ├── README.md
+│    ├── src/
+│    └── vite.config.js
+├─── server/ # Backend
+│    ├── controllers/
+│    ├── helpers/
+│    ├── index.js
+│    ├── models/
+│    ├── node_modules/
+│    ├── package-lock.json
+│    ├── package.json
+└──  └── ruotes/
+
 
 
 ## contributors
