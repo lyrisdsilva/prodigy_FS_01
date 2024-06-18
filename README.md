@@ -5,7 +5,7 @@ Excited to announce the successful completion of Task-01 during my full stack we
 system with secure login and registration functionality. 
 
 # Table Content
-1. Project Description
+1. # Project Description
 2. Technologies Used
 3. Setup and Installation
 4. Usage
@@ -17,7 +17,7 @@ Task-01 Secure User Authentication
 Implement a user authentication system with secure login and registration functionality. Users should be able to sign up for an account, log in securely, and access protected routes only after successful authentication. Use standard mechanisms to handle password hashing, session management, and user role-based access control. Protected routes should restrict unauthorized access to sensitive functionalities.
 
 # Objectives
-System with secure login and registration functionality.
-Mechanisms to handle password hashing.
+* System with secure login and registration functionality.
+* Mechanisms to handle password hashing.
 
 # Technologies Used
