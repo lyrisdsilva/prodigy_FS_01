@@ -49,7 +49,7 @@ After the project is connected to the database you are ready to go.
 
 
 ## Project Structure
-``bash
+```bash
 ├── README.md 
 ├── .gitignore
 ├── client/ # Frontend 
@@ -71,7 +71,6 @@ After the project is connected to the database you are ready to go.
 │    ├── package-lock.json
 │    ├── package.json
 └──  └── ruotes/
-
 
 
 ## contributors
